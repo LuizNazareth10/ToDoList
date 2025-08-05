@@ -1,0 +1,23 @@
+[
+  {
+    "taskId": "abc12345",
+    "title": "Estudar Node.js",
+    "description": "Revisar conceitos de Express e EJS",
+    "dueDate": "2025-08-10",
+    "completed": false,
+    "createdAt": "2025-08-05",
+    "priority": "high",
+    "attachment": "material-nodejs.pdf"
+  },
+
+  {
+    "taskId": "xyz67890",
+    "title": "Estudar JavaScript",
+    "description": "Revisar conceitos básicos de JavaScript",
+    "dueDate": "2025-08-15",
+    "completed": false,
+    "createdAt": "2025-08-10",
+    "priority": "medium",
+    "attachment": "material-javascript.pdf"
+  }
+]

@@ -1,0 +1,49 @@
+.title-container {
+    margin-bottom: 20px;
+    border: lightseagreen 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    width: 55%;
+    margin: 0 auto 20px auto;
+
+    display: flex;
+    align-items: center; /* Alinha todos os filhos verticalmente */
+    justify-content: center;
+    gap: 10px; /* Espaçamento entre os elementos */
+}
+
+.title{
+    margin-right: 25px;
+    font-size: 15px;
+}
+.add-task-btn,
+.order-tasks-btn,
+.delete-tasks-btn {
+    font-size: 12px;
+    padding: 5px 10px;
+    margin-right: 5px;
+    width: auto;
+    height: auto;
+}
+
+.task{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin:0 20px 10px 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+.task a{
+    text-decoration: none;
+    color: #333;
+}
+.task-title{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.dueDate{
+    margin-bottom: 5px;
+}
+.completed{
+    margin-bottom: 5px;
+}
